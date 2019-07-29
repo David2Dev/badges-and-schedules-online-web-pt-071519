@@ -4,3 +4,6 @@ def badge_maker(speakers)
   speakers.do |speaker|
     puts "Hello, my name is #{speaker}."
     
+  end
+  
+end
